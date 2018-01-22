@@ -1,4 +1,4 @@
-DC lesson
+* DC lesson *
 
 Purpose of the lesson is to teach student how to create a nav bar that is sticky.
 
